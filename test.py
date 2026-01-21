@@ -1,1 +1,1 @@
-# stash-conflict: different change in working tree
+# feature-clean-history change 1
