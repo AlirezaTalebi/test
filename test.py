@@ -1,1 +1,1 @@
-# stash-conflict: my local change
+# stash-conflict: different change in working tree
