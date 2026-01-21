@@ -1,2 +1,1 @@
-# cherry-pick demo
-# “remote change for fetch demo”
+# stash-conflict: my local change
