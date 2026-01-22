@@ -1,1 +1,1 @@
-# index-lab B
+# stash-lab
